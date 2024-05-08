@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Staff
+title: 课程组人员
 description: A listing of all the course staff members.
 ---
 
-# Staff
+# 课程组人员
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+本课程由以下人员进行准备与讲授，如有相关疑问或愿意深入了解课程内容以及相关研究方向，欢迎联系。
 
-## Instructors
+## 授课教师
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -18,7 +18,7 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+## 助教
 
 {% for staffer in teaching_assistants %}
 {{ staffer }}

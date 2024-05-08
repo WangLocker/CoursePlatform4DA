@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: 相关信息
 description: >-
     Course policies and information.
 ---
 
-# About
+# 相关信息
 {:.no_toc}
 
-## Table of contents
+## 课程主要信息目录
 {: .no_toc .text-delta }
 
 1. TOC
@@ -16,18 +16,29 @@ description: >-
 
 ---
 
-## About
+## 关于本课程
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+本课程旨在使学生熟悉现代数据处理和分析的技术，学会挖掘数据中潜在的有价值信息，并展示如何将这些技术有效地应用于现实案例。
+本课程以实践为导向，通过一系列实际问题和真实数据集的应用来激励和阐明概念与技术。课程由浅入深涵盖丰富且精炼的内容，
+这包括Python语言基础、Pandas库的数据提取、处理与粗清理、以及一些经典的数据分析案例与方法，
+如果有兴趣，学生将还会学习到一些经典的机器学习方法，如支持向量机、聚类算法、集成学习、贝叶斯网络、高斯过程和异常检测。
+在这个过程中学生将通过Python实践编程，强化理论与实践的结合，最终能有效提升数据处理、分析的能力，发现其潜在价值。
 
-## Lecture
+## 课程讲授
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+每堂课通常包括1.5小时的幻灯片讲解和1小时的互动编程会话（上半学期），以及案例研究（下半学期）。
+课程详细探讨了如何通过Python、Pandas以及相关经典库中的分析方法解决真实数据的处理和分析问题。
+此外，课程还包括对机器学习理论和实践应用的讨论，尽管这不是重点，但我们鼓励对机器学习感兴趣的学生进行深入学习。
+## 课程资源
 
-## Resources
+课程主要基于教师的课程笔记，并在必要时补充相关文章或书籍章节。
+推荐的参考书目包括《A Byte of Python》、《Python for Data Analysis》等。
+课程还将使用Python进行编程，涉及的库包括pandas、numpy和sklearn等。
+此外，课程网站还提供在线资源供学生参考，这包括一些经典案例、书本与博客文章。
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
 
-## Assignments
+## 课程成绩
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+学生的评估将包括出勤率、期中考试、三次作业和最终项目的报告及视频展示。
+作业涵盖了课程内容的多个主题，将会随课程进行二发布，作业要求学生运用所学的数据处理和分析技术解决具体的真实数据集上的问题。
+最终项目则是对学生综合运用课程知识的测试，需要提交详细的项目报告和视频展示。
