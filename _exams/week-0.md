@@ -3,7 +3,7 @@ title: 考核内容 1
 week: 0
 date: 2024-4-28
 ---
-第12周 数据处理与分析（Python）考核内容 1
+第12周 数据分析与处理（Python）考核内容 1
 
 1. 测试文本 [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
 1. 测试文本 [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). 测试文本
